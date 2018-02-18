@@ -1,0 +1,7 @@
+/bin/*
+/obj/*
+C UNIT.cbp
+C UNIT.depend
+C UNIT.layout
+main.h
+Test.h
